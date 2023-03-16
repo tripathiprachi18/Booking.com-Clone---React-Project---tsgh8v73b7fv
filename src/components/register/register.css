@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+ }
+.row{
+    display: flex;
+    align-items: center;
+
+}
+.registerBtn{
+background-color: blue;
+border: 0;
+height: 30px;
+}

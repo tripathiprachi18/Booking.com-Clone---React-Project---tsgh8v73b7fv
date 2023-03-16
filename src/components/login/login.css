@@ -1,0 +1,43 @@
+.log-ele{
+    /* width:300px; */
+    border:1px solid gray;
+}
+#signUp{
+    border: 0;
+}
+.containers{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}.siCbutton{
+    border:none;
+    background-color:  #003584;
+    color:white;
+}
+.inputs{
+    border: none;
+    outline:none;
+
+}
+.log-ele .siCbutton{
+    background-color: #003584;
+    height: 30px;
+}
+.ic{
+    color: gray;
+    margin-right:30px;
+}
+.log-ele{
+    margin-top: 30px;
+    /* background-color: pink; */
+}
+.cld{
+    cursor:pointer;
+}
+.login{
+    margin-top:100px;
+}
+.signup{
+    cursor:pointer;
+    color:rgb(31, 31, 73)
+}
